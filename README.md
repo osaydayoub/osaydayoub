@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Osayd! 👋
+
+Welcome to my GitHub!
+
+Here you can find my journey as a Fullstack Developer and more...
 
 <!--
 **osaydayoub/osaydayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
