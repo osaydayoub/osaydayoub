@@ -22,7 +22,7 @@ Here you can find my journey ✈️ as a Fullstack Developer and more...
   - [Frontend](https://github.com/osaydayoub/coachAppFrontend)
 
 And more projects to come in the future...
-code
+
 
 *****
 
