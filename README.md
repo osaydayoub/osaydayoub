@@ -1,5 +1,7 @@
 ### Hi there, I'm Osayd! 👋
 
+![](https://komarev.com/ghpvc/?username=osaydayoub&color=green)
+
 Welcome to my GitHub!
 
 Here you can find my journey ✈️ as a Fullstack Developer and more...
