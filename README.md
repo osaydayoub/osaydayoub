@@ -29,8 +29,9 @@ code
 👀 Currently looking for a full-stack job, whether it's frontend or backend.
 
 📫 How to reach me ==>
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osayd-ayoub-48a31b2a8/)
-- [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:osaydayoub@gmail.com)
+- [![Osayd Ayoub](https://img.shields.io/badge/LinkedIn-Osayd%20Ayoub-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osayd-ayoub-48a31b2a8/)
+- [![osaydayoub@gmail.com](https://img.shields.io/badge/Gmail-osaydayoub%40gmail.com-red?style=flat&logo=gmail)](mailto:osaydayoub@gmail.com)
+
 
 
 
