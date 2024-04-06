@@ -26,7 +26,10 @@ And more projects to come in the future...
 
 *****
 
-👀 Currently looking for a full-stack job, whether it's frontend or backend.
+👀 Currently looking for a full-stack job.  
+I can work in both frontend and backend development roles, and I'm open to opportunities in either area.
+
+
 
 📫 How to reach me ==>
 - [![Osayd Ayoub](https://img.shields.io/badge/LinkedIn-Osayd%20Ayoub-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osayd-ayoub-48a31b2a8/)
