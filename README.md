@@ -6,7 +6,7 @@ Here you can find my journey ✈️ as a Fullstack Developer and more...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osaydayoub&show_icons=true&theme=radical)](https://github.com/osaydayoub/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaydayoub&layout=Compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osaydayoub&layout=compact)
 
 <!--
 **osaydayoub/osaydayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
