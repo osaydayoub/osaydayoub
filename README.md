@@ -1,6 +1,5 @@
 ### Hi there, I'm Osayd! 👋
 
-![](https://komarev.com/ghpvc/?username=osaydayoub&color=green)
 
 Welcome to my GitHub!
 
