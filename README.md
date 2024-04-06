@@ -22,6 +22,18 @@ Here you can find my journey ✈️ as a Fullstack Developer and more...
   - [Frontend](https://github.com/osaydayoub/coachAppFrontend)
 
 And more projects to come in the future...
+code
+
+*****
+
+👀 Currently looking for a full-stack job, whether it's frontend or backend.
+
+📫 How to reach me ==>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/osayd-ayoub-48a31b2a8/)
+- [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:osaydayoub@gmail.com)
+
+
+
 
 
 <!--
